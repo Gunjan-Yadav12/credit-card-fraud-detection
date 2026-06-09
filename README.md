@@ -30,4 +30,8 @@ Standard accuracy is the wrong metric here. We need **Recall** and **AUC-ROC**.
 
 Python · Scikit-learn · imbalanced-learn · Pandas · NumPy · Matplotlib · Seaborn · Joblib
 
-![alt text](image.png)
+## 📊 Visualizations
+
+![ROC Curve](roc_curve.png)
+
+![Feature Importance](feature_importance.png)
