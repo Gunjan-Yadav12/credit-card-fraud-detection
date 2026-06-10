@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection 🔍
 
-ML model to detect fraudulent credit card transactions on a massively imbalanced dataset.
+> 🔗 Part of my ML portfolio — [View my GitHub](https://github.com/Gunjan-Yadav12)
 
 ## 📊 Results
 
